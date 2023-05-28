@@ -7,8 +7,10 @@
 Time series analysis comprises methods for analyzing time series data in order to extract meaningful statistics and other characteristics fo the data. Time series forecasting is the use of a model to predict future values based on previously observed values. Time series are widely used for non-stationary data, like economic, weather, stock price, and retail sales in this post. We will demonstrate different approaches for forecasting retail sales time series. Let’s get started! 
 
 ### **Data:**
+There are several categories in the Superstore sales data, we start from time series analysis and forecasting for furniture salses. We have a good 4-years of furniter sales data. 
 
 ## **Methods**
+The step we take are data preprocessing where we remove columns we do not need, check missing values, aggregate sales bu date and so on. Then We Visualizing Furniture Sales Time Series Data. 
 
 ## **Results**
 ### Model 1 is 
