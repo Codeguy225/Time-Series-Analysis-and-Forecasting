@@ -24,6 +24,9 @@ Top Highlight is that we can also visualize our data using a method called time-
 The plot above clearly shows that the sales of furniture is unstable, along with its obvious seasonality.
 
 ## **Describe your final model**
+Validating forecasts: To help us understand the accuracy of our forecasts, we compare predicted sales to real sales of the time series, and we set forecasts to start at 2017–01–01 to the end of the data.
+![image](https://github.com/Codeguy225/Time-Series-Analysis-and-Forecasting/assets/117793811/bcea4451-bd6a-492d-acc0-114746a32734)
+The line plot is showing the observed values compared to the rolling forecast predictions. Overall, our forecasts align with the true values very well, showing an upward trend starts from the beginning of the year and captured the seasonality toward the end of the year.
 
 ## **Model Performance**
 
