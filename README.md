@@ -15,7 +15,7 @@ The step we take are data preprocessing where we remove columns we do not need, 
 ## **Results**
 ### Model 1  
 ![image](https://github.com/Codeguy225/Time-Series-Analysis-and-Forecasting/assets/117793811/0c8a68d9-0dba-4c04-b7c5-b3da15cdc7e5)
-Some distinguishable patterns appear when we plot the data. The time-series has seasonality pattern, such as sales are always low at the beginning of the year and high at the end of the year. There is always an upward trend within any single year with a couple of low months in the mid of the year.
+Some distinguishable patterns appear when we plot the data. The time-series has seasonality pattern, such as sales are always low at the beginning of the year and high at the end of the year. There is always an upward trend within any single year with a couple of low months in the middle of the year.
 
 Top Highlight is that we can also visualize our data using a method called time-series decomposition that allows us to decompose our time series into three distinct components: trend, seasonality, and noise.
 
