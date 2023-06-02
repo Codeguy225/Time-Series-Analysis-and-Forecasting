@@ -35,3 +35,5 @@ There are many time-series analysis we can explore from now on, such as forecast
 
 ## **Limitations & Next Steps**
 The only limitation faced with this model was the available data at the time of creation.  Recommend adding more data to the model to discover how the data behaved during the pandemic. 
+
+http://localhost:8888/notebooks/Time%20Series%20Analysis%20and%20Forecasting.ipynb
