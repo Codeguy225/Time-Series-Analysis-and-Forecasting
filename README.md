@@ -10,7 +10,7 @@ Time series analysis comprises methods for analyzing time series data in order t
 There are several categories in the Superstore sales data, we start from time series analysis and forecasting for furniture salses. We have a good 4-years of furniter sales data. 
 
 ## **Methods**
-The step we take are data preprocessing where we remove columns we do not need, check missing values, aggregate sales bu date and so on. Then We Visualizing Furniture Sales Time Series Data. 
+The step we take are data preprocessing where we remove columns we do not need, check missing values, aggregate sales by date and so on. Then We Visualizing Furniture Sales Time Series Data. 
 
 ## **Results**
 ### Model 1  
