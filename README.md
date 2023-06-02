@@ -34,4 +34,4 @@ Our model clearly captured furniture sales seasonality. As we forecast further o
 There are many time-series analysis we can explore from now on, such as forecast with uncertainty bounds, change point and anomaly detection, forecast time-series with external data source. We have only just started.
 
 ## **Limitations & Next Steps**
-The only limitation faced with this model was the available data at the time of creation.  Recommend adding more data to the modle to discover how the data behaved during the pandemic. 
+The only limitation faced with this model was the available data at the time of creation.  Recommend adding more data to the model to discover how the data behaved during the pandemic. 
